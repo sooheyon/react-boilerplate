@@ -1,0 +1,11 @@
+# build
+node_modules
+*.log
+dist
+
+# yarn
+.yarn/*
+.yarn-integrity
+
+# mac
+.DS_Stroe
